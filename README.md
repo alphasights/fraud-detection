@@ -1,7 +1,7 @@
 # Fraud detection
 
 ## Purpose
-The take home exam is meant to:
+This hands-on exercise is meant to:
 - Ensure your skills align with your potential role at AlphaSights. 
 - Let you exhibit your skills in a simulated data science problem
 - In the case of a successful take home exercise, shorten the time commitment for the final round of interviews 
