@@ -2,14 +2,17 @@
 
 ## Purpose
 The take home exam is meant to:
-Ensure your skills align with your potential role at AlphaSights. 
-Let you exhibit your skills in a simulated data science problem
-In the case of a successful take home exercise, shorten the time commitment for the final round of interviews 
-Provide some common ground for follow-up discussions in the final round
-Hopefully provide a fun experience working with a new data set!
+- Ensure your skills align with your potential role at AlphaSights. 
+- Let you exhibit your skills in a simulated data science problem
+- In the case of a successful take home exercise, shorten the time commitment for the final round of interviews 
+- Provide some common ground for follow-up discussions in the final round
+- Hopefully provide a fun experience working with a new data set!
 
 ## General Guidance
-You should expect to spend roughly 3 hours on this exercise. You should be able to load the data, perform some exploratory analysis, do some feature engineering, and finally model selection and training. Given the limited time frame, the expectation is that you spend more time understanding and exploring the data and limited time on model training and tuning. We do not expect you to train a highly accurate model in the given time. We are interested in what features you choose to include in the model. Feel free to pick the model type you are most familiar with, provided that you can defend the assumption that it is appropriate and could lead to "good" predictions. 
+- You should expect to spend roughly 3 hours on this exercise. You should be able to load the data, perform some exploratory analysis, do some feature engineering, and finally select and train a model. 
+- Given the limited time frame, the expectation is that you spend more time understanding and exploring the data and limited time on model training and tuning. We do not expect you to deliver a highly accurate model in the given time. 
+- We are particularly interested in what features you choose to include in the model. 
+- Feel free to pick the model type you are most familiar with, provided that you can defend the assumption that it is appropriate and could lead to "good" predictions. 
 
 ## Final Deliverable
 You may use whatever language/ packages/ libraries you wish. We find the most convenient final product is a Jupyter notebook, though we will accept Excel, R, even Cobol if that's your thing!
