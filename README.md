@@ -9,7 +9,7 @@ This hands-on exercise is meant to:
 - Hopefully provide a fun experience working with a new data set!
 
 ## General Guidance
-- You should expect to spend roughly 3 hours on this exercise. You should be able to load the data, perform some exploratory analysis, do some feature engineering, and finally select and train a model. 
+- You should aim to spend 3 hours on this exercise, and complete as much as possible in that time frame. You should be able to load the data, perform some exploratory analysis, do some feature engineering, and finally select and train a model. 
 - Given the limited time frame, the expectation is that you spend more time understanding and exploring the data and limited time on model training and tuning. We do not expect you to deliver a highly accurate model in the given time. 
 - We are particularly interested in what features you choose to include in the model. 
 - Feel free to pick the model type you are most familiar with, provided that you can defend the assumption that it is appropriate and could lead to "good" predictions. 
